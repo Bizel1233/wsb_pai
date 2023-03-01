@@ -1,0 +1,7 @@
+    1  git clone https://github.com/Bizel1233/wsb_pai.git
+    2  ls
+    3  cd wsb_pai/
+    4  ls
+    5  alias c=clear
+    6  c
+    7  history > filehistory
